@@ -4,6 +4,10 @@ Prometheus exporter for cheap TP-Link routers, like the [TL-WR841N](https://www.
 
 Inspired by [this repository](https://github.com/mkubicek/tpylink).
 
+
+[![Docker Pulls](https://img.shields.io/docker/pulls/tools4homeautomation/tplink-exporter)](https://hub.docker.com/r/tools4homeautomation/tplink-exporter/)
+[![Docker Stars](https://img.shields.io/docker/stars/tools4homeautomation/tplink-exporter.svg)](https://hub.docker.com/r/tools4homeautomation/tplink-exporter/)
+
 The tplink package created for this exporter can be used for another projects besides this one.
 
 ![grafana_image](https://github.com/maesoser/tplink_exporter/raw/master/images/grafana.jpg)
